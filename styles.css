@@ -30,7 +30,7 @@ body {
 }
 
 .container {
-    height: 100vh;
+    height: 50vh;
     display: grid;
     grid-template-columns: 50% 50%;
 }
@@ -184,6 +184,7 @@ body {
         display: flex;
         flex-direction: column-reverse;
         justify-content: flex-end;
+        padding-top: 2em;
     }
 
     .dispositivos__lista {
