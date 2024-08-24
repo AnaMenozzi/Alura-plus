@@ -25,12 +25,13 @@ body {
     background-image: url("Images/Background.png");
     background-repeat: no-repeat;
     background-size: contain;
+    background-position: center;
     align-items: center;
     text-align: center;
 }
 
 .container {
-    height: 50vh;
+    height: 60vh;
     display: grid;
     grid-template-columns: 50% 50%;
 }
